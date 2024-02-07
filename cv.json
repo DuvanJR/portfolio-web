@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Duvan Jaimes Rodriguez",
-      "label": "FrontEnd Developer con experiencia en Angular, Css, Html, JavaScript, TypeScript",
+      "label": "FrontEnd Developer with experience in Angular, CSS, Html, JavaScript, TypeScript.",
       "image": "/duvanjaimes.webp",
       "email": "duvanjaimes14@gmail.com",
       "phone": "+57 3045762433",
       "url": "",
-      "summary": "Soy un ingeniero en sistemas con actitud proactiva, con capacidad de colaboración en equipo y responsabilidad con el trabajo. Mi pasión por aprender y mantenerme actualizado me impulsa a buscar un puesto desafiante y dinámico donde pueda aportar mi experiencia, al mismo tiempo que continúo adquiriendo nuevos conocimientos en el ámbito de la tecnología e innovación.",
+      "summary": "I am a systems engineer with a proactive attitude, with the capacity for team collaboration and responsibility with work. My passion for learning and staying updated drives me to look for a challenging and dynamic position where I can contribute my experience, while continuing to acquire new knowledge in the field of technology and innovation.",
       "location": {
         "address": "",
         "postalCode": "08820",
@@ -30,11 +30,11 @@
     "work": [
       {
         "name": "ZABUD TECHNOLOGIES",
-        "position": "Desarrollador Frontend",
+        "position": "Frontend Developer",
         "url": "",
         "startDate": "2023-02-08",
         "endDate": "2023-09-08",
-        "summary": "Desarrollador frontend Angular, Angular material, material design, Bitbucket, Git, Github, Css, Html, Sass, Scss, SQL (PostgreSQL), NoQSL (MongoDB), Figma y Trello. ",
+        "summary": "Frontend Developer in Angular, Angular material, material design, Bitbucket, Git, Github, Css, Html, Sass, Scss, SQL (PostgreSQL), NoQSL (MongoDB), Figma, Trello. And using microservices, JWT (for authentication) and SPA \nWork on an internal project of the organizational, it is called \"village\" which tries to empower organizations with efficient performance models that merge culture, technology and achievement of objectives. \nWith Aldea create your complete, fast and easy-to-use performance model to achieve the fulfillment of objectives, goals and strategic challenges, under the modality of OKRs and KPIs."  ,
         "highlights": [
           "Started the company"
         ]
@@ -105,7 +105,7 @@
         ]
       },
       {
-        "name": "Tailwind",
+        "name": "Angular Material",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
@@ -119,7 +119,7 @@
         ]
       },
       {
-        "name": "Node",
+        "name": "Node.js",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
@@ -147,14 +147,35 @@
         ]
       },
       {
-        "name": "Next.js",
+        "name": "Angular",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
         ]
       },
       {
-        "name": "React",
+        "name": "JWT",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "NoSql",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "Material Design",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
