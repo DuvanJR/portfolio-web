@@ -4,7 +4,7 @@
       "label": "FrontEnd Developer with experience in Angular, CSS, Html, JavaScript, TypeScript.",
       "image": "/duvanjaimes.webp",
       "email": "duvanjaimes14@gmail.com",
-      "phone": "+57 3045762433",
+      "phone": "\n +57 3045762433",
       "url": "",
       "summary": "I am a systems engineer with a proactive attitude, with the capacity for team collaboration and responsibility with work. My passion for learning and staying updated drives me to look for a challenging and dynamic position where I can contribute my experience, while continuing to acquire new knowledge in the field of technology and innovation.",
       "location": {
@@ -169,6 +169,13 @@
       },
       {
         "name": "MongoDB",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "SASS",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
