@@ -52,12 +52,24 @@
       ]
     }],
     "education": [{
-      "institution": "Universitat Oberta de Catalunya",
+      "institution": "Fundacion Universitaria Tecnologico Comfenalco",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
+      "area": "Systems Engineer",
+      "studyType": "professional",
+      "startDate": "2022-01-26",
+      "endDate": "2023-02-08",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Fundacion Universitaria Tecnologico Comfenalco",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Software Development Technologist",
+      "studyType": "Technologist",
+      "startDate": "2019-01-26",
+      "endDate": "2021-02-08",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -70,16 +82,28 @@
       "summary": "There is no spoon."
     }],
     "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Scrum Foundation Professional Certification - SFPC™",
+      "date": "2023-02-24",
+      "issuer": "CertiProf",
+      "url": "https://www.credly.com/badges/b5346c61-c167-4888-8685-c9053cc05195/public_url"
+    },
+    {
+      "name": "Introduction to Cybersecurity",
+      "date": "2023-11-05",
+      "issuer": "Cisco",
+      "url": "https://www.credly.com/badges/395ae958-ba08-4a51-ba3d-ee7079fe615f/public_url"
+    },
+    {
+      "name": "Learn HTML5 and CSS3 from scratch",
+      "date": "2021-05-17",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-86aac079-80f8-4136-af09-8cacad31280c/"
     }],
     "publications": [{
-      "name": "Publication",
+      "name": "Aprende HTML5 y CSS3 desde cero",
       "publisher": "Company",
       "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
+      "url": "https://www.udemy.com/certificate/UC-86aac079-80f8-4136-af09-8cacad31280c/",
       "summary": "Description…"
     }],
     "skills": [
